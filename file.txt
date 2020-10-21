@@ -1,1 +1,6 @@
 hello everyone!
+
+Paste a link to your github repository below: 
+https://github.com/AjaAdams/hello-world
+
+What questions do you have about what we've learned so far using git and github?: No specific questions just feeling a bit shakey/unsure using them both. I'm sure that will get better with time!
